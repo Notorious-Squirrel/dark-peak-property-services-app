@@ -1,7 +1,7 @@
 {
-  "name": "Dark Peak Property Services",
-  "short_name": "Dark Peak",
-  "description": "Browse property services, see indicative prices and request bookings.",
+  "name": "One List — One list. One visit. Job done.",
+  "short_name": "One List",
+  "description": "One list. One visit. Job done. Plan property jobs and request bookings.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
